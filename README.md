@@ -1,6 +1,6 @@
 # Bezpieczenstwo-komputerowe
 
-Decipher <- program deszyfrujący OTP z wielokrotnie użytym kluczem. 
+Decipher && Xorer <- program deszyfrujący OTP z wielokrotnie użytym kluczem. 
 
 
 
